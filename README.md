@@ -1,1 +1,1 @@
-java solution for exercism problems
+Solutions for exercism exercises
